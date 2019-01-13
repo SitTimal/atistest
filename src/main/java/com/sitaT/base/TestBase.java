@@ -13,7 +13,7 @@ public class TestBase {
 	public static Properties prop;
 
 	public TestBase() {
-
+		// this is night class saturday.
 		try {
 			prop = new Properties();
 
